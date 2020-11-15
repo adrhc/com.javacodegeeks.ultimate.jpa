@@ -39,5 +39,4 @@ dependency.txt
 *-test.log
 /subtitles-extractor.log
 /albums-webapp.log
-h2-db.h2.db
-h2-db.trace.db
+/h2-db.*.db
